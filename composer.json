@@ -1,0 +1,12 @@
+{
+    "name": "krav4enko/task-manager",
+    "authors": [
+        {
+            "name": "Alex Kravchenko",
+            "email": "krav4enko@mail.ru"
+        }
+    ],
+    "require": {
+        "twig/twig": "^1.33"
+    }
+}
